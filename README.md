@@ -18,13 +18,9 @@ public class Developer {
     private String name = "Максат";
     private String location = "Бишкек, Кыргызстан";
     private String[] languages = {"Java", "JavaScript", "Python"};
-    private String[] technologies = {"Spring Boot", "React", "Node.js", "Telegram API"};
-    private String currentFocus = "Full Stack Development & Telegram Bots";
+    private String[] technologies = {"Spring Boot", "React", "Telegram API"};
+    private String currentFocus = "Full Stack Development";
     private boolean openToWork = true;
-    
-    public void sayHi() {
-        System.out.println("Спасибо за визит! Давайте создадим что-то крутое вместе! 🚀");
-    }
 }
 ```
 
@@ -41,10 +37,8 @@ public class Developer {
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
@@ -82,7 +76,7 @@ public class Developer {
 [![Telegram Web App React](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=tg-web-app-react&theme=tokyonight)](https://github.com/MaksatI2/tg-web-app-react)
 [![Telegram Web App Node](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=tg-web-app-node&theme=tokyonight)](https://github.com/MaksatI2/tg-web-app-node)
 
-[![Java Booklander](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=Java_Booklander&theme=tokyonight)](https://github.com/MaksatI2/Java_Booklander)
+[![Java Booklander](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=Airport&theme=tokyonight)](https://github.com/MaksatI2/Airport)
 [![Job Search](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=JobSearch&theme=tokyonight)](https://github.com/MaksatI2/JobSearch)
 
 </div>
@@ -96,34 +90,20 @@ public class Developer {
 ## 🎯 Текущие цели
 
 - 🌱 Изучаю **Spring Cloud** и **Microservices**
-- 🔭 Работаю над **Telegram Bot API** проектами
-- 👯 Ищу коллаборации в **Open Source** проектах
+- 🔭 Работаю над **** проектом
 - 📚 Углубляю знания в **System Design**
-- 🚀 Планирую изучить **Kubernetes** и **DevOps**
-
-## 💡 Интересные факты
-
-- 🎮 Люблю решать алгоритмические задачи
-- 📱 Специализируюсь на разработке Telegram веб-приложений
-- ☕ Код лучше всего пишется с чашкой кофе
-- 🌍 Всегда открыт для новых возможностей и проектов
+- 🚀 Планирую изучить **Docker** и **DevOps**
 
 ## 📞 Контакты
 
 <div align="center">
 
-<!-- Здесь вы можете добавить свои контакты -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zer0icemax@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dettroid)
 
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Спасибо%20за%20визит!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer"/>
-</div>
 
 <div align="center">
   <h3>💻 "Код - это поэзия в движении" 🚀</h3>
