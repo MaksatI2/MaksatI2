@@ -76,8 +76,11 @@ public class Developer {
 [![Telegram Web App React](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=tg-web-app-react&theme=tokyonight)](https://github.com/MaksatI2/tg-web-app-react)
 [![Telegram Web App Node](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=tg-web-app-node&theme=tokyonight)](https://github.com/MaksatI2/tg-web-app-node)
 
-[![Java Booklander](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=Airport&theme=tokyonight)](https://github.com/MaksatI2/Airport)
-[![Job Search](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=JobSearch&theme=tokyonight)](https://github.com/MaksatI2/JobSearch)
+[![EduFood](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=EduFood&theme=tokyonight)](https://github.com/MaksatI2/EduFood)
+[![JavaShareHub](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=JavaShareHub&theme=tokyonight)](https://github.com/MaksatI2/JavaShareHub)
+
+[![Airport](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=Airport&theme=tokyonight)](https://github.com/MaksatI2/Airport)
+[![Java Booklander](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=Java_Booklander&theme=tokyonight)](https://github.com/MaksatI2/Java_Booklander)
 
 </div>
 
