@@ -17,10 +17,9 @@
 public class Developer {
     private String name = "Максат";
     private String location = "Бишкек, Кыргызстан";
-    private String[] languages = {"Java", "JavaScript", "Python"};
-    private String[] technologies = {"Spring Boot", "React", "Telegram API"};
+    private String[] languages = {"Java", "JavaScript"};
+    private String[] technologies = {"Spring Boot", "Telegram API"};
     private String currentFocus = "Full Stack Development";
-    private boolean openToWork = true;
 }
 ```
 
@@ -92,7 +91,7 @@ public class Developer {
 
 ## 🎯 Текущие цели
 
-- 🌱 Изучаю **Spring Cloud** и **Microservices**
+- 🌱 Изучаю **** и ****
 - 🔭 Работаю над **** проектом
 - 📚 Углубляю знания в **System Design**
 - 🚀 Планирую изучить **Docker** и **DevOps**
