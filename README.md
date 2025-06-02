@@ -79,7 +79,7 @@ public class Developer {
 [![EduFood](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=EduFood&theme=tokyonight)](https://github.com/MaksatI2/EduFood)
 [![JavaShareHub](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=JavaShareHub&theme=tokyonight)](https://github.com/MaksatI2/JavaShareHub)
 
-[![Airport](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=Airport&theme=tokyonight)](https://github.com/MaksatI2/Airport)
+[![Airport](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=airport&theme=tokyonight)](https://github.com/MaksatI2/Airport)
 [![Java Booklander](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=Java_Booklander&theme=tokyonight)](https://github.com/MaksatI2/Java_Booklander)
 
 </div>
