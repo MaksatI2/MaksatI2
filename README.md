@@ -103,10 +103,3 @@ public class Developer {
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dettroid)
 
 </div>
-
----
-
-<div align="center">
-  <h3>💻 "Код - это поэзия в движении" 🚀</h3>
-  <p><i>Каждая строка кода - это шаг к лучшему будущему</i></p>
-</div>
