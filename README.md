@@ -73,7 +73,7 @@ public class Developer {
 
 <div align="center">
 
-[![Telegram Web App React](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=tg-web-app-react&theme=tokyonight)](https://github.com/MaksatI2/tg-web-app-react)
+[![Job Search](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=JobSearch&theme=tokyonight)](https://github.com/MaksatI2/JobSearch)
 [![Telegram Web App Node](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=tg-web-app-node&theme=tokyonight)](https://github.com/MaksatI2/tg-web-app-node)
 
 [![EduFood](https://github-readme-stats.vercel.app/api/pin/?username=MaksatI2&repo=EduFood&theme=tokyonight)](https://github.com/MaksatI2/EduFood)
