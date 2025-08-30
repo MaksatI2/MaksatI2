@@ -90,9 +90,8 @@ public class Developer {
 
 ## 🎯 Текущие цели
 
-- 🌱 Изучаю **** и ****
-- 🔭 Работаю над  Manas Training Service<img width="468" height="15" alt="image" src="https://github.com/user-attachments/assets/95608817-7336-491c-bd49-6ebd1763fb06" />
- проектом
+- 🌱 Изучаю Redis и Микросервисы
+- 🔭 Работаю над  Manas Training Service проектом
 - 📚 Углубляю знания в **System Design**
 - 🚀 Планирую изучить **Spring Cloud** и **Kafka**
 
