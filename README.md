@@ -20,10 +20,6 @@ public class Developer {
     private String[] languages = {"Java", "JavaScript"};
     private String[] technologies = {"Spring Boot", "Telegram API", "Redis", "Playwright"};
     private String currentFocus = "Full Stack Development & QA Testing";
-    private Map<String, String> spokenLanguages = Map.of(
-        "Kyrgyz", "Native",
-        "Russian", "C1",
-        "English", "B1"
     );
 }
 ```
