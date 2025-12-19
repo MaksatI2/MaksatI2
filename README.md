@@ -18,8 +18,7 @@ public class Developer {
     private String name = "Maksat";
     private String location = "Bishkek, Kyrgyzstan";
     private String[] languages = {"Java", "JavaScript"};
-    private String[] technologies = {"Spring Boot", "Telegram API", "Redis", "Playwright"};
-    private String currentFocus = "Full Stack Development & QA Testing";
+    private String[] technologies = {"Spring Boot", "Telegram API", "React", "Playwright"};
 }
 ```
 
@@ -36,7 +35,6 @@ public class Developer {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Database & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -82,12 +80,6 @@ public class Developer {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaksatI2&theme=tokyonight" alt="GitHub Summary"/>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaksatI2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
 ## 🔥 Featured Projects
 
 <div align="center">
@@ -108,13 +100,6 @@ public class Developer {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaksatI2&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
-
-## 🎯 Current Goals
-
-- 🌱 Learning Redis and Microservices
-- 📚 Deepening knowledge in **QA Testing** with Playwright
-- 🚀 Planning to learn **Spring Cloud** and **Kafka**
-- 🔧 Improving system design and architecture skills
 
 ## 📞 Contact
 
