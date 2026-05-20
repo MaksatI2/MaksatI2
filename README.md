@@ -9,18 +9,6 @@
   <img src="https://img.shields.io/github/followers/MaksatI2?label=Followers&style=social" alt="GitHub Followers"/>
 </div>
 
----
-
-## 🚀 About Me
-
-```java
-public class Developer {
-    private String name = "Maksat";
-    private String location = "Bishkek, Kyrgyzstan";
-    private String[] languages = {"Java", "JavaScript"};
-    private String[] technologies = {"Spring Boot", "Telegram API", "React", "Playwright"};
-}
-```
 
 ## 🛠️ Tech Stack
 
